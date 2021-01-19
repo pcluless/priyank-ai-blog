@@ -41,7 +41,7 @@ baseurl: "/priyank-ai-blog" # the subpath of your site, e.g. "/blog".
 minima:
   social_links:
     twitter: PriyanK_7n
-    github: PriyanK7n
+    github: 1Paws7
 
 # Set this to true to get LaTeX math equation support
 use_math: 
